@@ -33,7 +33,7 @@ We can divide the common types of splash pages into 2 types:
  	<li>Have an exit link (e.g.: welcome page, product introduction page,…)</li>
  	<li>Don’t have the exit link (e.g.: coming soon, maintenance page,…)</li>
 </ul>
-The <strong>Splash Page for Magento 2</strong> provides you with an easy and simple way to create both of these types.
+The <strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Splash Page Extension</a></strong> provides you with an easy and simple way to create both of these types.
 
 <span style="font-size: medium; color: #000080;"><strong>Create A Splash Page Containing The Exit Link</strong></span>
 
